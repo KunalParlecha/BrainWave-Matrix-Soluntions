@@ -13,18 +13,18 @@ Top Revenue-Generating Countries
 - The majority of sales come from **a few key countries**, suggesting strong market demand in specific regions.  
 - Expanding in these regions or **targeted marketing campaigns** could improve overall sales.  
 
-### **4️⃣ Customer Behavior Insights**
+Customer Behavior Insights**
 - The **top 10 customers** contribute significantly to revenue.  
 - Businesses can implement **loyalty programs or special discounts** to retain these high-value customers.  
 - Some customers **buy in bulk**, while others make frequent smaller purchases.  
 
-### **5️⃣ Order Size and Distribution**
+Order Size and Distribution**
 - Most transactions involve small to **moderate order sizes**, but a few **large purchases** significantly impact revenue.  
 - Understanding order size distribution can help optimize **inventory and pricing strategies**.  
 
 ---
 
-## **📊 Business Recommendations**
+ Business Recommendations**
 Focus on High-Demand Products  
  Increase inventory and marketing for the top-selling products.  
 
